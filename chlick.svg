@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 120" width="100">
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,-5; 0,0" dur="2s" repeatCount="indefinite"/>
+    <!-- 桶身 -->
+    <path d="M20,50 L80,50 L72,110 L28,110 Z" fill="#F40027" stroke="#fff" stroke-width="2"/>
+    <!-- 白色条纹 -->
+    <rect x="25" y="65" width="50" height="8" fill="#fff" opacity="0.8"/>
+    <rect x="23" y="85" width="54" height="8" fill="#fff" opacity="0.8"/>
+    <!-- 鸡腿（两个椭圆代表露出桶口） -->
+    <ellipse cx="35" cy="48" rx="10" ry="6" fill="#C68B59"/>
+    <ellipse cx="65" cy="48" rx="10" ry="6" fill="#C68B59"/>
+    <!-- 骨头 -->
+    <rect x="30" y="40" width="4" height="10" fill="#F5F5DC" rx="2"/>
+    <rect x="66" y="40" width="4" height="10" fill="#F5F5DC" rx="2"/>
+  </g>
+</svg>
