@@ -22,8 +22,6 @@
 <img src="kfc.svg" width="80" alt="KFC">
 
 </div>
-
-<!-- ============ 底部广告 / 联系方式 开始 ============ -->
 <br>
 
 <div align="center">
@@ -45,7 +43,7 @@
     <tr>
       <td align="center" style="padding: 10px 20px 18px 20px;">
         <a href="mailto:3595655855@qq.com" style="text-decoration: none;">
-          <img src="https://img.shields.io/badge/Email-contact%40dkobot.dev-F40027?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin: 4px;">
+          <img src="https://img.shields.io/badge/Email-359565585%40qq.com-F40027?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin: 4px;">
         </a>
         <a href="https://github.com/dkobot" style="text-decoration: none;">
           <img src="https://img.shields.io/badge/GitHub-dkobot-F40027?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin: 4px;">
